@@ -1,0 +1,3 @@
+<?php
+//000031536000a:11:{i:0;a:2:{s:6:"areaId";s:6:"360100";s:8:"areaName";s:9:"南昌市";}i:1;a:2:{s:6:"areaId";s:6:"361000";s:8:"areaName";s:9:"抚州市";}i:2;a:2:{s:6:"areaId";s:6:"360900";s:8:"areaName";s:9:"宜春市";}i:3;a:2:{s:6:"areaId";s:6:"360800";s:8:"areaName";s:9:"吉安市";}i:4;a:2:{s:6:"areaId";s:6:"360700";s:8:"areaName";s:9:"赣州市";}i:5;a:2:{s:6:"areaId";s:6:"360600";s:8:"areaName";s:9:"鹰潭市";}i:6;a:2:{s:6:"areaId";s:6:"360500";s:8:"areaName";s:9:"新余市";}i:7;a:2:{s:6:"areaId";s:6:"360400";s:8:"areaName";s:9:"九江市";}i:8;a:2:{s:6:"areaId";s:6:"360300";s:8:"areaName";s:9:"萍乡市";}i:9;a:2:{s:6:"areaId";s:6:"360200";s:8:"areaName";s:12:"景德镇市";}i:10;a:2:{s:6:"areaId";s:6:"361100";s:8:"areaName";s:9:"上饶市";}}
+?>
